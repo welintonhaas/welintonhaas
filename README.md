@@ -1,7 +1,7 @@
 ## Welinton Haas
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welinton.haas@gmail.com)](mailto:welinton.haas@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/welinton-haas-56409913b/)](https://www.linkedin.com/in/fabiopapais)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/welinton-haas-56409913b/)](https://www.www.linkedin.com/in/welinton-haas-56409913b)
 ![View Counter](https://komarev.com/ghpvc/?username=welintonhaas&style=flat-square)
 
 
