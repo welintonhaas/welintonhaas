@@ -4,10 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/welinton-haas/)](https://www.linkedin.com/in/welinton-haas)
 ![View Counter](https://komarev.com/ghpvc/?username=welintonhaas&style=flat-square)
 
-
-- Passionate about electronics, technology and innovation;
-- Bachelor's degree in Information Systems;
-- Learning Python and Typescript (Node, React and Angular).
+Full Stack developer, specialized in Backend applications. He has been working with technology for over 7 years, has knowledge in Python, Node, Typescript, Angular, Docker, ExpressJs, Flutter, PHP, Laravel, Pascal and Java, MySQL database, PostgreSQL and MongoDB. Worked professionally with PHP, Python, Angular 7, Pascal and JAVA.
 
 <details>
 <summary>Statistics</summary>
