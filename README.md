@@ -18,6 +18,8 @@ Full Stack developer, specialized in Backend applications. I Have been working w
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welintonhaas&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </a>
 </details>
+<br>
+Skills
 
 <div style="display:inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="70px"/>
