@@ -19,7 +19,6 @@ Full Stack developer, specialized in Backend applications. I Have been working w
     </a>
 </details>
 
-Principais Tecnologias
 <div style="display:inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="70px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="70px"/>
