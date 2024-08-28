@@ -6,7 +6,7 @@
 
 Full Stack developer, specialized in Backend applications. I Have been working with technology for over 9 years, has knowledge in Python, Node, Typescript, Angular, Docker, ExpressJs, Flutter, PHP, Laravel, Pascal and Java, MySQL database, PostgreSQL and MongoDB. i Worked professionally with PHP, Python, Angular 7, Pascal and JAVA.
 
-<details>
+<details open>
 <summary>Statistics</summary>
 <br>
     <a>
@@ -17,4 +17,4 @@ Full Stack developer, specialized in Backend applications. I Have been working w
     <a>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welintonhaas&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </a>
- </details>
+</details>
