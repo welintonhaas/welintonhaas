@@ -4,7 +4,19 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/welinton-haas/)](https://www.linkedin.com/in/welinton-haas)
 ![View Counter](https://komarev.com/ghpvc/?username=welintonhaas&style=flat-square)
 
-Full Stack developer, specialized in Backend applications. I Have been working with technology for over 9 years, has knowledge in Python, Node, Typescript, Angular, Docker, ExpressJs, Flutter, PHP, Laravel, Pascal and Java, MySQL database, PostgreSQL and MongoDB. i Worked professionally with PHP, Python, Angular 7, Pascal and JAVA.
+🚀 Tech Lead | Arquiteto de Soluções | Código Limpo
+
+💡 Especialista em Java | APIs REST | SOLID | Clean Code
+
+🌐 Full Stack Developer | Freelancer | Inovador
+
+📊 Experiência em DevOps | Infraestrutura | Segurança
+
+🎯 Missão: Criar soluções brilhantes, eficientes e sustentáveis
+
+👨‍💻 Código é arte. Vamos pintar o mundo com linhas de código!
+
+🔍 Explorando fronteiras: ML, IoT, Cloud Computing
 
 <details open>
 <summary>Statistics</summary>
