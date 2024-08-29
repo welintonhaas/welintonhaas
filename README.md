@@ -19,6 +19,7 @@ Full Stack developer, specialized in Backend applications. I Have been working w
     </a>
 </details>
 <br>
+
 ## My Skills
 
 #### Main Stack:
@@ -32,7 +33,9 @@ Full Stack developer, specialized in Backend applications. I Have been working w
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="70px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="70px" />
 </div>
+
 #### Secondary Stack:
+
 <div style="display:inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="70px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="70px" />
@@ -52,6 +55,7 @@ Full Stack developer, specialized in Backend applications. I Have been working w
 </div>
 
 #### Databases:
+
 <div style="display:inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="70px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="70px" />
