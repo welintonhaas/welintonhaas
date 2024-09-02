@@ -16,7 +16,7 @@
 
 👨‍💻 Código é arte. Vamos pintar o mundo com linhas de código!
 
-🔍 Explorando fronteiras: ML, IoT, Cloud Computing
+🔍 Explorando fronteiras: ML, Cloud Computing
 
 <details open>
 <summary>Statistics</summary>
